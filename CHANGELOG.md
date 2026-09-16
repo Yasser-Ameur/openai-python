@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.15.0](https://github.com/openai/openai-python/compare/v3.14.1...v3.15.0) (2026-09-16)
+
+
+### Features
+
+* **api:** add compaction progress events ([#3866](https://github.com/openai/openai-python/issues/3866)) ([98e1d24](https://github.com/openai/openai-python/commit/98e1d24f4902ab58830adf0e2b6a729a5d5429b1))
+
+
+### Bug Fixes
+
+* preserve chat stream moderation results ([#3864](https://github.com/openai/openai-python/issues/3864)) ([b77076d](https://github.com/openai/openai-python/commit/b77076d23b6f3e34453b0fadd8cd2a001627e365))
+
+
+### Documentation
+
+* **realtime:** remove nonexistent type imports ([#3869](https://github.com/openai/openai-python/issues/3869)) ([2971aaf](https://github.com/openai/openai-python/commit/2971aafce5c1966fc56efd00918b16314063284e))
+
 ## [3.14.1](https://github.com/openai/openai-python/compare/v3.14.0...v3.14.1) (2026-09-15)
 
 
